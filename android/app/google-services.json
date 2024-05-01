@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "805688378308",
+    "project_id": "kedi-lite",
+    "storage_bucket": "kedi-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805688378308:android:fbf1b62562db9647cf9a91",
+        "android_client_info": {
+          "package_name": "id.kelasdigital.lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805688378308-iiar0670ime92hkf1lqt8tkuo54iak9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGDmb31WDgWLuX949_uJpVNoONyv8uCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805688378308-iiar0670ime92hkf1lqt8tkuo54iak9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805688378308-4dcpaspk82sn2gjvutfi28vsdg6ks280.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.kelasdigital.lite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
